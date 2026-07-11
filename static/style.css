@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7f9;
+    text-align: center;
+    margin-top: 40px;
+}
+
+form {
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px;
+}
+
+button, input[type=submit] {
+    background: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px;
+}
