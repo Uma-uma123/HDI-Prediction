@@ -231,17 +231,17 @@ http://127.0.0.1:5000
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](Screenshots/home.png)
 
 
 ### Prediction Result
 
 ### Input Form
 
-![Input Form](screenshots/prediction.png)
+![Input Form](Screenshots/input.png)
 ### Prediction Result
 
-![Prediction Result](screenshots/result.png)
+![Prediction Result](Screenshots/result.png)
 
 ---
 
