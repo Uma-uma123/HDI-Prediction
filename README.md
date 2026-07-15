@@ -295,8 +295,4 @@ Very High
 - Matplotlib Documentation
 - Seaborn Documentation
 
----
 
-# 👤 Author
-
-**Uma Puligedda**
